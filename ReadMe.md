@@ -58,9 +58,7 @@ What things cause errors?
 
 ## Author Information
 
-* Name: Jessica Nguyen 
-* Student ID: 1169812
-* Email Address: jnguye27@uoguelph.ca
+* Creator: Jessica Nguyen 
 
 ## Development History
 
